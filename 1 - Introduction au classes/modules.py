@@ -1,5 +1,5 @@
 """ ********************************************************************
-*  Fichier de module du groupe NSI terminale Dumon d'Urville 2022-2023 * 
+* Fichier de module du groupe NSI terminale Dumont d'Urville 2022-2023 * 
 ******************************************************************** """
 
 class humain :
